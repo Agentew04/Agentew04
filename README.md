@@ -1,12 +1,14 @@
-
-### Hi, I'm Rodrigo 👋
+<div align="center">
+    <h3>Hi, I'm Rodrigo 👋</h3>
+</div>
 
 > I'm a Computer Science student at _Universidade Federal de Santa Maria_ (UFSM). I'm passionate about open source projects and I'm always looking for new challenges.
 
+<div align="center">
+    <h3>📫 How to reach me</h3>
+</div>
 
-### 📫 How to reach me
-
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
     <a href="https://www.linkedin.com/in/rodrigo-appelt-528562150/">
         <img alt="LinkedIn" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -21,12 +23,14 @@
     </a>
 </div>
 
-
-### My statistics 📈
-
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agentew04&show_icons=true&theme=aura)
-
-### My most used languages 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agentew04&layout=compact&theme=aura)
-
+<div align="center">
+    <h3>My statistics 📈</h3>
+    <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Agentew04&show_icons=true&theme=aura"
+        style="margin: 5px"/>
+</div>
+    
+<div align="center">
+    <h3>My most used languages 📊</h3>
+    <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agentew04&layout=compact&theme=aura"
+        style="margin: 5px"/>
+</div>
