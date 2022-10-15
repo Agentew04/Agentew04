@@ -3,11 +3,13 @@
     <h3>Hi, I'm Rodrigo 👋</h3>
 </div>
 
-> I'm a Computer Science student at _Universidade Federal de Santa Maria_ (UFSM). I'm passionate about open source projects and I'm always looking for new challenges.
+<blockquote>
+    I'm a Computer Science student at <i>Universidade Federal de Santa Maria</i> (UFSM). I'm passionate about open source projects and I'm always looking for new challenges.
+</blockquote>
 
 <br/>
 <div align="center">
-    <h3>📫 How to reach me</h3>
+    <h3>How to reach me 📫</h3>
 </div>
 
 <div style="display: inline_block" align="center">
@@ -23,6 +25,19 @@
     <a href="https://open.spotify.com/user/agentew04">
         <img alt="Twitter" align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
     </a>
+</div>
+
+<br/>
+<div align="center">
+    <h3>Meet some of my projects 📝</h3>
+    <p>
+        <b><a href="https://github.com/Agentew04/Unichain/">Unichain</a></b>: <i>A fast and lightweight multi-purpose
+        blockchain.</i>
+    </p>
+    <p>
+        <b><a href="https://github.com/Agentew04/SafeFolder/">SafeFolder</a></b>: <i>A completely cross-platform app to
+        encrypt files and folders using cutting-edge technology.</i>
+    </p>
 </div>
 
 <br/>
