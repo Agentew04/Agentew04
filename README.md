@@ -43,6 +43,9 @@
 <br/>
 <div align="center">
     <h3>My statistics 📈</h3>
+    <div align="center">
+    <a href="https://wakatime.com/@c3626d8b-ce6a-4ba9-b319-4ddb43daf911"><img src="https://wakatime.com/badge/user/c3626d8b-ce6a-4ba9-b319-4ddb43daf911.svg" alt="Total time coded since Aug 22 2022" /></a>
+</div>
     <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Agentew04&show_icons=true&theme=aura"
         style="margin: 5px"/>
 </div>
