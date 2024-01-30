@@ -31,6 +31,10 @@
 <div align="center">
     <h3>Meet some of my projects 📝</h3>
     <p>
+        <b><a href="https://github.com/Agentew04/CliToolkit/">CliToolkit</a></b>: <i>Collection of useful features
+        for both cli and non-cli programs</i>
+    </p>
+    <p>
         <b><a href="https://github.com/Agentew04/Unichain/">Unichain</a></b>: <i>A fast and lightweight multi-purpose
         blockchain.</i>
     </p>
