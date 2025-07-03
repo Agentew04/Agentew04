@@ -4,7 +4,7 @@
 </div>
 
 <blockquote>
-    I'm a Computer Science student at <i>Universidade Federal de Santa Maria</i> (UFSM). I'm passionate about .NET, the low-level stuff and games.
+    I'm a Computer Science student at <i>Universidade Federal de Santa Maria</i> (UFSM). I'm passionate about the low-level stuff, self-hosting and game development.
     Always looking for new challenges. 🚀
 </blockquote>
 
