@@ -32,16 +32,13 @@
 <div align="center">
     <h3>Meet some of my projects 📝</h3>
     <p>
-        <b><a href="https://github.com/Agentew04/CliToolkit/">CliToolkit</a></b>: <i>Collection of useful features
-        for both cli and non-cli programs</i>
+        <b><a href="https://github.com/Agentew04/cga-portal/">Portal 2 Remake</a></b>: <i>a small recreation of the famous Portal 2 game but in Unity 6.</i>
     </p>
     <p>
-        <b><a href="https://github.com/Agentew04/Unichain/">Unichain</a></b>: <i>A fast and lightweight multi-purpose
-        blockchain.</i>
+        <b><a href="https://github.com/Agentew04/compiler/">Fortall Compiler</a></b>: <i>A compiler for a custom language, including support for recursion and strings. <br/>Capable of emitting IL and MIPS assembly. Includes execution.</i>
     </p>
     <p>
-        <b><a href="https://github.com/Agentew04/SafeFolder/">SafeFolder</a></b>: <i>A completely cross-platform app to
-        encrypt files and folders using cutting-edge technology.</i>
+        <b><a href="https://github.com/Agentew04/SAAE/">SAAE</a></b>: <i>An educational IDE for assembly, focused on Computer Organization and Architecture, Operating Systems and other low level stuff.</i>
     </p>
 </div>
 
