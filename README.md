@@ -38,7 +38,7 @@
         <b><a href="https://github.com/Agentew04/compiler/">Fortall Compiler</a></b>: <i>A compiler for a custom language, including support for recursion and strings. <br/>Capable of emitting IL and MIPS assembly. Includes execution.</i>
     </p>
     <p>
-        <b><a href="https://github.com/Agentew04/SAAE/">SAAE</a></b>: <i>An educational IDE for assembly, focused on Computer Organization and Architecture, Operating Systems and other low level stuff.</i>
+        <b><a href="https://github.com/Agentew04/SAAE/">SAAE</a></b>: <i>An educational IDE for assembly, computer architecture and operating systems.</i>
     </p>
 </div>
 
